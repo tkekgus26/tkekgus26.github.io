@@ -1,0 +1,3 @@
+User-agent: *
+Allow:/
+Sitemap: https://tkekgus26.github.io/sitemap.xml
